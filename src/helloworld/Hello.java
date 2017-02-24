@@ -12,6 +12,8 @@ public class Hello {
 		System.out.println("this is added at teda ");
 		
 		System.out.println("this is added at teda 2");
+		
+		System.out.println("this is added at teda 3");
 	}
 
 }
